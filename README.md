@@ -129,5 +129,5 @@ This project requires the TL-Engine SDK (Windows/Visual Studio only). To build:
 ---
 
 ## Author
-
+Don Joshua Zeon
 Coursework project for *Games Concepts* (CO1301).
